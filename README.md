@@ -1,7 +1,7 @@
 # python-nginx-docker
 Start up project.
 ## Docker
-In application root directory.    
+In source root directory.    
 Build image:    
 `%>docker build -t <aImageName> .`    
 Run docker image:    
